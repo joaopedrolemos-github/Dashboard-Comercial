@@ -1,4 +1,4 @@
-#Resumo das Análises do Comercial:
+# Resumo das Análises do Comercial:
 
 ### Geral 
 #### Vendas, Devoluções, Lucros e Clientes (YoY e YTD):
