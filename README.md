@@ -14,6 +14,8 @@ A análise temporal e a simulação permitem adaptar-se dinamicamente às mudan�
 
 ### Foco no Cliente:
 A ênfase na informação dos clientes fortalece a relação empresa-cliente, resultando em estratégias de vendas mais personalizadas e satisfatórias.
+
+## Conclusão
 Em resumo, esse projeto de BI comercial é essencial para o sucesso da empresa, proporcionando as ferramentas necessárias para compreender, adaptar e impulsionar as operações comerciais de maneira inteligente e eficaz.
 
 ##### Créditos
